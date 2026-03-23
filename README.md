@@ -44,7 +44,7 @@ O sistema avalia dados críticos em tempo real e determina, com base em critéri
 [✔] Estrutura íntegra
 [✔] Pressão dos tanques adequada
 [✔] Módulos críticos operacionais
-
+ ```
 ---
 
 ## ▶️ Como Executar
