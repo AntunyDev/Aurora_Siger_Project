@@ -1,26 +1,46 @@
-# Aurora-Siger
+# 🚀 Aurora Siger
 
-Sistema de telemetria para verificação de decolagem de espaçonaves.
+Sistema de telemetria para verificação de pré-decolagem de espaçonaves.
 
-## Descrição do Projeto
+---
 
-Este projeto simula um sistema de monitoramento de telemetria para decidir se uma espaçonave está pronta para decolagem. Inclui leitura de dados, verificações de segurança, análise energética e consulta a IA para anomalias.
+## 🛰️ Descrição do Projeto
 
-## Funcionalidades
+O **Aurora Siger** é um sistema de simulação de telemetria que realiza a análise completa das condições operacionais de uma espaçonave antes da decolagem.
 
-- Visualização de dados de telemetria
-- Análise energética com cálculo de autonomia
-- Verificação de segurança com decisão de decolagem
-- Análise assistida por IA
-  
+O sistema avalia dados críticos em tempo real e determina, com base em critérios de segurança, se o lançamento pode ser autorizado ou deve ser abortado.
 
-### Verificação de Segurança
-```
-Temperatura interna dentro do limite.
-Temperatura externa dentro do limite.
-Estrutura íntegra.
-Pressão dos tanques adequada.
-Módulos críticos operacionais.
+---
 
-STATUS FINAL: PRONTO PARA DECOLAR
-```
+## ⚙️ Funcionalidades
+
+- 📡 Leitura de dados de telemetria
+- 🔋 Análise energética com cálculo de autonomia
+- 🌡️ Monitoramento térmico (interno e externo)
+- ⛽ Verificação de pressão dos tanques
+- 🧠 Análise assistida por Inteligência Artificial
+- 🚦 Sistema de decisão automática de lançamento
+
+---
+
+## 📊 Parâmetros Monitorados
+
+| Sistema | Critério |
+|--------|--------|
+| 🌡️ Temperatura Interna | 15°C a 35°C |
+| 🌡️ Temperatura Externa | -50°C a 60°C |
+| 🔋 Energia | ≥ 80% |
+| ⛽ Pressão dos Tanques | 120 a 150 bar |
+| 🏗️ Integridade Estrutural | Ativo (1) |
+| 🧩 Módulos Críticos | Ativo (OK) |
+
+---
+
+## 🧪 Verificação de Segurança
+
+```text
+[✔] Temperatura interna dentro do limite
+[✔] Temperatura externa dentro do limite
+[✔] Estrutura íntegra
+[✔] Pressão dos tanques adequada
+[✔] Módulos críticos operacionais
