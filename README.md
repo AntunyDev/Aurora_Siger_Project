@@ -57,6 +57,6 @@ Para executar o código:
 2. No menu superior, clique em **"Executar tudo"**  
 3. Insira os dados solicitados pelo sistema conforme indicado  
 
-O sistema irá processar automaticamente as informações e exibir o **relatório de pré-decolagem** com a decisão final.
+O sistema irá processar alguns inputs e depois automaticamente as informações, após isso vai exibir o **relatório de pré-decolagem** com a decisão final.
 
 ---
