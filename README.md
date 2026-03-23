@@ -44,3 +44,19 @@ O sistema avalia dados críticos em tempo real e determina, com base em critéri
 [✔] Estrutura íntegra
 [✔] Pressão dos tanques adequada
 [✔] Módulos críticos operacionais
+
+---
+
+## ▶️ Como Executar
+
+O projeto foi desenvolvido utilizando o **Google Colab** em formato de notebook interativo.
+
+Para executar o código:
+
+1. Abra o notebook no Google Colab  
+2. No menu superior, clique em **"Executar tudo"**  
+3. Insira os dados solicitados pelo sistema conforme indicado  
+
+O sistema irá processar automaticamente as informações e exibir o **relatório de pré-decolagem** com a decisão final.
+
+---
